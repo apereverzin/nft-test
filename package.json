@@ -1,0 +1,25 @@
+{
+  "name": "nft-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apereverzin/nft-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apereverzin/nft-test/issues"
+  },
+  "homepage": "https://github.com/apereverzin/nft-test#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "axios": "^0.21.1",
+    "form-data": "^4.0.0"
+  }
+}
